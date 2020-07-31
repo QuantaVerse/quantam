@@ -24,20 +24,7 @@ hs_err_pid*
 
 # Jetbrains
 .idea/
-
-# Lagom
-target
-ideatarget
-.target
-bin
-.cache
-.cache-main
-.cache-tests
-.classpath
-.project
-.tmpBin
-.factorypath
-.settings
-logs
-.idea
 *.iml
+
+# MacOS
+.DS_Store/

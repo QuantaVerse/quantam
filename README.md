@@ -5,5 +5,5 @@
 
 # Design
 ----------------------------------------
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Master Engine Diagram](https://github.com/QuantaVerse/quantum/blob/master/diagram/QuantumEngine.png "Master Engine Diagram")
 

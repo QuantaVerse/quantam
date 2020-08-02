@@ -4,5 +4,5 @@
 
 
 # Design
-![Master Engine Diagram](https://github.com/QuantaVerse/quantam/blob/master/diagram/QuantamEngine%4050%25.png "Master Engine Diagram")
+![Master Engine Diagram](https://github.com/QuantaVerse/quantam/blob/master/diagram/QuantamEngine.png "Master Engine Diagram")
 

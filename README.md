@@ -1,5 +1,5 @@
-# quantum
-:electron: Quantum : Quant Data Engine
+# quantam
+:electron: Quantam : Quant Data Engine
 
 
 
